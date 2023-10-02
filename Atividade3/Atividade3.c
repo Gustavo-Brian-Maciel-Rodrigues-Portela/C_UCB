@@ -35,7 +35,7 @@ int main() {
         area = -area;
     }
 
-    printf("A area do poligono e aproximadamente %.2f unidades quadradas.\n", area);
+    printf("A area do poligono e aproximadamente %.2f .\n", area);
 
     return 0;
 }
